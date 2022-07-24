@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=evadox&color=blue)
 
-### Hi! welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Joseph.
+### Hi, welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name is Joseph.
 
 Skilled DevOps Engineer with hands-on experience supporting, automating, and optimizing mission critical deployments in AWS, leveraging configuration management, CI/CD, and other DevOps processes.
 
